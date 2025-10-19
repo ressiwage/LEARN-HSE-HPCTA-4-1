@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_msmq (3)\\4_msmq\\msmqclient\\msmqclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|solutionrelative:msmqclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_msmq (3)\\4_msmq\\msmqclient\\msmqclient\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|solutionrelative:msmqclient\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_msmq (3)\\4_msmq\\msmqclient\\msmqclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|solutionrelative:msmqclient\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|w:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_msmq (3)\\4_msmq\\msmqclient\\msmqclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DAA95C-6DA4-41E8-8F71-0F49848AE6CC}|MSMQClient\\MSMQClient.csproj|solutionrelative:msmqclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.designer.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Client.designer.cs",
+              "RelativeDocumentMoniker": "MSMQClient\\Client.designer.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Client.designer.cs",
+              "RelativeToolTip": "MSMQClient\\Client.designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv48AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T16:24:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Client.cs",
+              "RelativeDocumentMoniker": "MSMQClient\\Client.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Client.cs",
+              "RelativeToolTip": "MSMQClient\\Client.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T16:03:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Program.cs",
+              "RelativeDocumentMoniker": "MSMQClient\\Program.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Program.cs",
+              "RelativeToolTip": "MSMQClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T16:03:33.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Client.cs",
+              "RelativeDocumentMoniker": "MSMQClient\\Client.cs",
+              "ToolTip": "W:\\desktop\\\u0443\u0447\u0435\u0431\u0430\\\u0442\u0438\u0430\u0432\u0432\\4_MSMQ (3)\\4_MSMQ\\MSMQClient\\MSMQClient\\Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MSMQClient\\Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T16:03:30.924Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
